@@ -16,20 +16,20 @@
     <sys:String x:Key="LOCStatisticsDataTotalAll">Всего игр</sys:String>
     <sys:String x:Key="LOCStatisticsDataTotalInstalled">Установлены</sys:String>
     <sys:String x:Key="LOCStatisticsDataTotalNotLaunching">Не установлены</sys:String>
-    <sys:String x:Key="LOCStatisticsDataTotalFavorite">Избраннык</sys:String>
+    <sys:String x:Key="LOCStatisticsDataTotalFavorite">Избранные</sys:String>
     <sys:String x:Key="LOCStatisticsDataTotalPlaytime">Общее игровое время</sys:String>
 
     <sys:String x:Key="LOCStatisticCompletionStatusNotPlayed">Не играл</sys:String>
     <sys:String x:Key="LOCStatisticCompletionStatusPlayed">Играл</sys:String>
-    <sys:String x:Key="LOCStatisticCompletionStatusBeaten">Beaten</sys:String>
+    <sys:String x:Key="LOCStatisticCompletionStatusBeaten">Пройти</sys:String>
     <sys:String x:Key="LOCStatisticCompletionStatusCompleted">Пройдены</sys:String>
     <sys:String x:Key="LOCStatisticCompletionStatusPlaying">Играете</sys:String>
     <sys:String x:Key="LOCStatisticCompletionStatusAbandoned">Заброшены</sys:String>
     <sys:String x:Key="LOCStatisticCompletionStatusOnHold">В заморозке</sys:String>
     <sys:String x:Key="LOCStatisticCompletionStatusPlanToPlay">В планах</sys:String>
-    <sys:String x:Key="LOCStatisticCompletionStatus">Конечный статус</sys:String>
+    <sys:String x:Key="LOCStatisticCompletionStatus">Конечная статистика</sys:String>
 
-    <sys:String x:Key="LOCStatisticsGraphicsTitlePlayTime">Обее игровое время</sys:String>
+    <sys:String x:Key="LOCStatisticsGraphicsTitlePlayTime">Обеще игровое время</sys:String>
     <sys:String x:Key="LOCStatisticsGraphicsTitleGenre">Всего по жанрам</sys:String>
 
     <!-- 
